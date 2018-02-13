@@ -222,12 +222,10 @@ def getOutputLine(donorsStatus, record):
     return '|'.join(outputList)
 
 def main():
-
     try:
         contributionTxt = str(sys.argv[1])
         percentTxt = str(sys.argv[2])
         repeatDonorsTxt = str(sys.argv[3])
-        print('?', contributionTxt, percentTxt,repeatDonorsTxt)
     except:
         print("The arguments have error")
 
