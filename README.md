@@ -7,4 +7,4 @@ You can run the test with the following command from within the `insight_testsui
 
     insight_testsuite~$ ./run_tests.sh
 
-When you run, you can execute the run.sh which compile the ./src/donation-analytics.py
+When you run, you can execute the run.sh which compiles the ./src/donation-analytics.py
